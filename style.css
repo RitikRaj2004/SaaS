@@ -459,3 +459,95 @@ font-size: 15px;
     padding: 10px 30px;
     font-weight: 600;
 }
+.page10{
+    height: 100%;
+    width: 100%;
+    /* background-color: red; */
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containers10{
+    height: 100%;
+    width: 90%;
+    /* background-color: green; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.page10container1{
+    height: 100%;
+    width: 23%;
+    /* background-color: blue; */
+}
+.page10container1content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30%;
+}
+.page10p1{
+    margin-left: 10%;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.page10container2{
+    height: 100%;
+    width: 23%;
+    /* background-color: rgb(135, 22, 103); */
+}
+.page10container2content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30%;
+}
+.page10p2{
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.page10container3{
+    height: 100%;
+    width: 23%;
+    /* background-color: rgb(28, 216, 216); */
+}
+.page10container3content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30%;
+
+}
+.page10p3{
+    font-size: 30px;
+    text-transform: uppercase;
+
+}
+.page10container4{
+    height: 100%;
+    width: 23%;
+    /* background-color: rgb(53, 249, 204); */
+}
+.page10p4{
+    font-size: 30px;
+    text-transform: uppercase;
+
+}
+.page10container4content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30%;
+}
+.ritik{
+    text-decoration: underline;
+}
